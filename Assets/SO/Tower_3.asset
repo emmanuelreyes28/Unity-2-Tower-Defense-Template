@@ -20,3 +20,4 @@ MonoBehaviour:
   attackCooldown: 0.1
   attackRange: 20
   rotationOffset: 0
+  projectile: {fileID: 11400000, guid: 9e5f53fcc90984bd4af893e9109e7703, type: 2}
